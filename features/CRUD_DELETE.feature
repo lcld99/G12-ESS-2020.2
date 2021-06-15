@@ -79,3 +79,4 @@ Cenários CRUD de Roteiros (Conflitos na restauração de N itens da Lixeira)
 	And Recebo uma mensagem de sucesso:Os roteiro “Engenharia de Requisitos” e “Arquitetura de Software” foram substituídos pelos que estavam na lixeira
 	And O roteiros e seu conteúdo que estavam na lixeira agora estão na lista de roteiros visíveis aos alunos e também ao professor.
 	And permaneço na página da lixeira.
+	THEN... (Mudança para a questão AULA2-1.d do Roteiro de Ger. Config.)
