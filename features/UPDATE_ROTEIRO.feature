@@ -35,3 +35,5 @@ Given I am logged as “professor”
 And A message tells me that “Operation could not proceed because some critical information was missing”
 	And I’m still at the roteiros page
 	Passo adicionado q7
+
+commit main
