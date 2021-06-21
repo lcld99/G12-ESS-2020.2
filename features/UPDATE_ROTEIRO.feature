@@ -1,6 +1,6 @@
 Atualizar roteiros, Informações críticas ficaram em branco (retornar erro)
 
-blabla
+aa
 Scenario: Updating roteiro
 Given I am logged as “professor”
 	And I’m at the roteiros page	
