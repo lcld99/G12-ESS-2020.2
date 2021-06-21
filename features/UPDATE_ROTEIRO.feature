@@ -53,3 +53,5 @@ Given I am logged as “professor”
 	Then I ask the system to update the roteiro
 And A message tells me that “Operation could not proceed because some critical information was missing”
 	And I’m still at the roteiros page
+
+	commit 1
